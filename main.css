@@ -166,7 +166,7 @@ nav a {
 
 p {
   text-align: center;
-  font-size: 31px;
+  font-size: 18px;
   font-family: acumin-pro-condensed, sans-serif;
   max-width: 740px;
   margin-left: auto;
@@ -224,35 +224,32 @@ hr + .sub-sub-heading {
   top: -39px;
 }
 
-img[src*="severed"] {
+/* img[src*="severed-desktop"] {
+  max-height: 610px;
+  margin-bottom: 71px;
+} */
+
+#severed {
   max-height: 634px;
-  width: 100%;
   margin-bottom: 51px;
 }
 
-img[src*="severed-desktop"] {
-  max-height: 610px;
-  margin-bottom: 71px;
-}
-
-img[src*="1990"] {
+#fig_1990 {
   max-height: 312px;
-  width: 100%;
   margin-bottom: 31px;
   margin-top: 46px;
 }
 
-img[src*="2020"] {
+#fig_2020 {
   max-height: 312px;
-  width: 100%;
   margin-bottom: 49px;
   margin-top: 46px;
 }
 
-img[src*="turtle-desktop"] {
+/* img[src*="turtle-desktop"] {
   margin-top: 4px;
   margin-bottom: 65px;
-}
+} */
 
 .quad {
   display: flex;
@@ -366,7 +363,8 @@ img[src*="turtle-desktop"] {
 }
 
 .mini.long ~ p {
-  width: 540px;
+  width: 390px;
+  max-width: 90%;
   line-height: 1.32em;
   margin-bottom: 31px;
 }
@@ -391,7 +389,7 @@ img[src*="turtle-desktop"] {
 }
 .support p {
   max-width: 440px;
-  font-size: 31px;
+  /* font-size: 31px; */
   margin-bottom: 52px;
 }
 
@@ -446,7 +444,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 25px;
+  font-size: 15px;
 }
 
 /* Mobile */
