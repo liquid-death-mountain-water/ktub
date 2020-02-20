@@ -7,7 +7,7 @@ function createYTplayer() {
   const el = document.createElement('div');
   el.classList.add('yt-modal');
   el.innerHTML = `
-    <iframe src="https://www.youtube.com/embed/NhheiPTdZCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/Hf0ntUMyZLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <a href="#" id="mod-close">Close</a>
   `;
   document.body.appendChild(overlay);

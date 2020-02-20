@@ -30,13 +30,13 @@ figcaption {
 }
 
 #comp {
-  background-image: url("assets/desktop-comp.png");
+  background-image: url("assets/mobile-comp.png");
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: center top;
 
-  width: 1440px;
-  height: 9549px;
+  width: 375px;
+  height: 7590px;
 
   position: absolute;
   left: 50%;
@@ -468,8 +468,8 @@ iframe {
   display: block;
   height: 75vw;
   padding: 3em;
-  max-height: 910px;
-  max-width: 1440px;
+  max-height: 960px;
+  max-width: 1280px;
 }
 
 #mod-close {
