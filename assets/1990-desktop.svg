@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="475" height="317" viewBox="0 0 475 317">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g stroke="#D8D8D8" stroke-width=".644">
+                <path fill="#FA284F" d="M108.342.945c-35.555.093-65.9 15.611-86.82 44.399C4.04 69.408-2.033 98.279 2.28 125.506c4.312 27.226 19.011 52.807 43.075 70.29 24.063 17.483 52.934 23.557 80.16 19.245 27.128-4.297 52.622-18.906 70.1-42.816l-87.272-63.405V.945z" transform="translate(0 64) translate(0 19)"/>
+                <path fill="#39B54A" d="M110.497 109.59l85.496 62.115c6.825-9.441 11.382-18.388 15.01-29.46L110.497 109.59z" transform="translate(0 64) translate(0 19)"/>
+                <path fill="#C5A95D" d="M166.014 17.483l-56.86 90.994 102.048 33.156c7.615-23.666 6.841-48.086-1.098-69.898-7.94-21.813-23.044-41.017-44.09-54.252z" transform="translate(0 64) translate(0 19)"/>
+                <path fill="#39B54A" fill-opacity=".5" d="M108.985.944v106.59l56.483-90.392C147.495 5.972 130.146.994 108.985.944z" transform="translate(0 64) translate(0 19)"/>
+            </g>
+            <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="24" font-style="condensed" font-weight="bold" letter-spacing=".48" transform="translate(0 64)">
+                <tspan x="284" y="18">9%</tspan> <tspan x="288.248" y="42.12" font-size="16" letter-spacing=".32">MISC. TORTURE</tspan>
+            </text>
+            <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="24" font-style="condensed" font-weight="bold" letter-spacing=".48" transform="translate(0 64)">
+                <tspan x="284" y="97">21%</tspan> <tspan x="288.248" y="121.12" font-size="16" letter-spacing=".32">TURNING BRAINS INTO SNAKES</tspan>
+            </text>
+            <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="24" font-style="condensed" font-weight="bold" letter-spacing=".48" transform="translate(0 64)">
+                <tspan x="284" y="155">5%</tspan> <tspan x="288.248" y="179.12" font-size="16" letter-spacing=".32">CLEANING UP PLASTIC BOTTLES</tspan>
+            </text>
+            <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="24" font-style="condensed" font-weight="bold" letter-spacing=".48" transform="translate(0 64)">
+                <tspan x="284" y="213">65%</tspan> <tspan x="288.248" y="237.12" font-size="16" letter-spacing=".32">SEVERING LIMBS</tspan>
+            </text>
+            <path fill="#C5A95D" fill-rule="nonzero" d="M265.854 10.25v2H138l.001 5.072A7.002 7.002 0 01137 31.25a7 7 0 01-1-13.93v-7.07h129.854zM137 19.25a5 5 0 100 10 5 5 0 000-10zM211.062 86a7.002 7.002 0 016.876 6.06l47.57.42-.017 2-47.571-.419A7.002 7.002 0 01204 92.938 7 7 0 01211.062 86zm-.018 2a5 5 0 10-.088 10 5 5 0 00.088-10zM265.854 149.834v2h-15.126v23.656h-.999l-37.945.025a7.002 7.002 0 01-13.93-.99 7 7 0 0113.928-1.01l36.946-.024v-23.657h17.126zm-61.003 19.686a5 5 0 10.006 10 5 5 0 00-.006-10zM265.854 206.97v2h-16.167v43.702H107.664v-10.047a7.002 7.002 0 011-13.929 7 7 0 011 13.93l-.001 8.045h138.024v-43.7h18.167zm-157.19 23.726a5 5 0 100 10 5 5 0 000-10z" transform="translate(0 64)"/>
+        </g>
+        <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="48" font-style="condensed" font-weight="bold" letter-spacing=".96">
+            <tspan x="0" y="35">1990</tspan>
+        </text>
+    </g>
+</svg>

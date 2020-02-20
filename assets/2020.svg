@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="306" height="190" viewBox="0 0 306 190">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g stroke="#D8D8D8" stroke-width=".644">
+                <path fill="#39B54A" d="M68.86.323C50.73.407 34.141 7.59 21.825 19.277 9.438 31.034 1.373 47.347.418 65.577c-.995 18.988 5.8 36.582 17.593 49.677 11.791 13.096 28.578 21.693 47.567 22.689 18.988.995 36.582-5.801 49.678-17.593 13.022-11.725 21.596-28.39 22.671-47.246l-69.068-3.62V.324z" transform="translate(0 -5) translate(0 41) translate(0 14.16)"/>
+                <path fill="#C5A95D" d="M129.56 36.077l-59.241 32.84 67.642 3.544c.653-13.42-1.929-24.605-8.401-36.384z" transform="translate(0 -5) translate(0 41) translate(0 14.16)"/>
+                <path fill="#FA284F" d="M86.15 2.447L69.673 68.54l59.576-33.024C119.708 18.47 105.084 7.25 86.15 2.447z" transform="translate(0 -5) translate(0 41) translate(0 14.16)"/>
+                <path fill="#39B54A" fill-opacity=".5" d="M69.503.322V66.56L85.526 2.29C79.873.901 75.325.342 69.503.322z" transform="translate(0 -5) translate(0 41) translate(0 14.16)"/>
+            </g>
+            <g>
+                <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="15.447" font-style="condensed" font-weight="bold" letter-spacing=".309" transform="translate(0 -5) translate(0 41) translate(75.302)">
+                    <tspan x="107.482" y="11">4%</tspan> <tspan x="110.216" y="26.524" font-size="10.298" letter-spacing=".206">MISC. TORTURE</tspan>
+                </text>
+                <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="15.447" font-style="condensed" font-weight="bold" letter-spacing=".309" transform="translate(0 -5) translate(0 41) translate(75.302)">
+                    <tspan x="107.482" y="61.845">13%</tspan> <tspan x="110.216" y="77.369" font-size="10.298" letter-spacing=".206">SEVERING LIMBS</tspan>
+                </text>
+                <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="15.447" font-style="condensed" font-weight="bold" letter-spacing=".309" transform="translate(0 -5) translate(0 41) translate(75.302)">
+                    <tspan x="107.482" y="99.174">9%</tspan> <tspan x="110.216" y="114.698" font-size="10.298" letter-spacing=".206">TURNING BRAINS INTO SNAKES</tspan>
+                </text>
+                <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="15.447" font-style="condensed" font-weight="bold" letter-spacing=".309" transform="translate(0 -5) translate(0 41) translate(75.302)">
+                    <tspan x="107.482" y="136.503">74%</tspan> <tspan x="110.216" y="152.027" font-size="10.298" letter-spacing=".206">CLEANING UP PLASTIC BOTTLES</tspan>
+                </text>
+                <path fill="#C5A95D" fill-rule="nonzero" d="M95.803 6.597v1.288l-94.61-.001v.688c2.577.313 4.575 2.477 4.575 5.105 0 2.843-2.339 5.144-5.218 5.144-2.88 0-5.218-2.3-5.218-5.144 0-2.628 1.998-4.793 4.575-5.105l-.001-1.975h95.897zM.55 9.821c-2.174 0-3.931 1.729-3.931 3.856s1.757 3.856 3.93 3.856c2.174 0 3.931-1.729 3.931-3.856S2.723 9.821.55 9.821zM41.834 127.687c2.629 0 4.793 1.998 5.105 4.574h48.958v1.287H46.94c-.313 2.577-2.477 4.575-5.105 4.575-2.843 0-5.143-2.339-5.143-5.218 0-2.88 2.3-5.218 5.143-5.218zm0 1.287c-2.127 0-3.856 1.757-3.856 3.93 0 2.174 1.729 3.931 3.856 3.931 2.128 0 3.857-1.757 3.857-3.93 0-2.174-1.73-3.931-3.857-3.931zM44.315 41.094c-2.843 0-5.144-2.338-5.144-5.218s2.3-5.218 5.144-5.218c2.628 0 4.792 1.998 5.105 4.574h29.732v25.101h16.651v1.287H77.865l-.001-25.101H49.42c-.313 2.577-2.477 4.575-5.105 4.575zm0-9.149c-2.128 0-3.857 1.758-3.857 3.931s1.73 3.93 3.857 3.93c2.127 0 3.856-1.757 3.856-3.93s-1.729-3.93-3.856-3.93zM61.049 79.399c-2.844 0-5.144-2.339-5.144-5.219 0-2.879 2.3-5.218 5.144-5.218 2.627 0 4.792 1.998 5.104 4.574h11.813v22.527h17.837v1.287H76.68V74.824H66.153c-.312 2.577-2.477 4.575-5.104 4.575zm0-9.15c-2.128 0-3.857 1.758-3.857 3.931 0 2.174 1.73 3.931 3.857 3.931 2.127 0 3.856-1.757 3.856-3.93 0-2.174-1.729-3.931-3.856-3.931z" transform="translate(0 -5) translate(0 41) translate(75.302)"/>
+            </g>
+        </g>
+        <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="24" font-style="condensed" font-weight="bold" letter-spacing=".48" transform="translate(0 -5)">
+            <tspan x="0" y="18">2020</tspan>
+        </text>
+    </g>
+</svg>

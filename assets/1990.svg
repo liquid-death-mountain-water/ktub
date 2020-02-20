@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="306" height="199" viewBox="0 0 306 199">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g stroke="#D8D8D8" stroke-width=".644">
+                <path fill="#FA284F" d="M69.615.723c-22.796.093-42.252 10.062-55.67 28.528C2.712 44.713-1.191 63.264 1.58 80.758c2.771 17.494 12.216 33.931 27.678 45.165 15.46 11.233 34.012 15.136 51.506 12.365 17.395-2.755 33.746-12.11 44.974-27.418L69.615 70.096V.723z" transform="translate(0 -5) translate(0 41) translate(0 12.229)"/>
+                <path fill="#39B54A" d="M71.77 70.865l54.347 39.485c4.325-6.001 7.228-11.7 9.541-18.726L71.77 70.865z" transform="translate(0 -5) translate(0 41) translate(0 12.229)"/>
+                <path fill="#C5A95D" d="M106.884 11.41L70.428 69.754l65.429 21.258c4.855-15.172 4.349-30.821-.74-44.803-5.09-13.982-14.761-26.295-28.233-34.797z" transform="translate(0 -5) translate(0 41) translate(0 12.229)"/>
+                <path fill="#39B54A" fill-opacity=".5" d="M70.258.723v68.086l36.08-57.74C94.858 3.956 83.764.774 70.258.724z" transform="translate(0 -5) translate(0 41) translate(0 12.229)"/>
+            </g>
+            <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="15.447" font-style="condensed" font-weight="bold" letter-spacing=".309" transform="translate(0 -5) translate(0 41)">
+                <tspan x="182.784" y="11">9%</tspan> <tspan x="185.518" y="26.524" font-size="10.298" letter-spacing=".206">MISC. TORTURE</tspan>
+            </text>
+            <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="15.447" font-style="condensed" font-weight="bold" letter-spacing=".309" transform="translate(0 -5) translate(0 41)">
+                <tspan x="182.784" y="61.845">21%</tspan> <tspan x="185.518" y="77.369" font-size="10.298" letter-spacing=".206">TURNING BRAINS INTO SNAKES</tspan>
+            </text>
+            <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="15.447" font-style="condensed" font-weight="bold" letter-spacing=".309" transform="translate(0 -5) translate(0 41)">
+                <tspan x="182.784" y="99.174">5%</tspan> <tspan x="185.518" y="114.698" font-size="10.298" letter-spacing=".206">CLEANING UP PLASTIC BOTTLES</tspan>
+            </text>
+            <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="15.447" font-style="condensed" font-weight="bold" letter-spacing=".309" transform="translate(0 -5) translate(0 41)">
+                <tspan x="182.784" y="136.503">65%</tspan> <tspan x="185.518" y="152.027" font-size="10.298" letter-spacing=".206">SEVERING LIMBS</tspan>
+            </text>
+            <path fill="#C5A95D" fill-rule="nonzero" d="M171.105 6.597v1.288l-82.288-.001v2.619c2.577.312 4.575 2.477 4.575 5.105 0 2.843-2.338 5.143-5.218 5.143s-5.218-2.3-5.218-5.143c0-2.628 1.998-4.793 4.575-5.105V6.597h83.574zm-82.931 5.154c-2.173 0-3.93 1.73-3.93 3.857 0 2.127 1.757 3.856 3.93 3.856s3.93-1.729 3.93-3.856c0-2.128-1.757-3.857-3.93-3.857zM135.847 54.638c2.628.023 4.774 2.04 5.064 4.618l29.972.265-.011 1.287-29.972-.265c-.335 2.574-2.517 4.553-5.145 4.53-2.843-.025-5.123-2.384-5.098-5.263.026-2.88 2.347-5.198 5.19-5.172zm-.012 1.287c-2.127-.02-3.871 1.723-3.89 3.896-.02 2.174 1.694 3.946 3.821 3.965 2.128.019 3.872-1.723 3.891-3.897.02-2.173-1.694-3.946-3.822-3.964zM171.105 96.434v1.287h-9.735v15.225h-.643l-23.777.017c-.31 2.576-2.474 4.575-5.101 4.577-2.843.002-5.145-2.335-5.147-5.215-.002-2.88 2.297-5.22 5.14-5.221 2.628-.002 4.794 1.995 5.108 4.571l23.133-.016V96.434h11.022zm-39.262 11.957c-2.128.001-3.856 1.76-3.854 3.933.001 2.174 1.731 3.93 3.859 3.929 2.127-.002 3.855-1.76 3.854-3.934-.002-2.173-1.732-3.93-3.86-3.928zM171.105 133.207v1.288l-10.405-.001v28.127H69.293v-5.82c-2.577-.313-4.574-2.478-4.574-5.105 0-2.844 2.338-5.144 5.218-5.144 2.879 0 5.218 2.3 5.218 5.144 0 2.627-1.998 4.792-4.574 5.104l-.001 4.533h88.832v-28.126h11.693zM69.937 147.84c-2.174 0-3.931 1.73-3.931 3.857 0 2.127 1.757 3.856 3.93 3.856 2.174 0 3.931-1.729 3.931-3.856 0-2.128-1.757-3.857-3.93-3.857z" transform="translate(0 -5) translate(0 41)"/>
+        </g>
+        <text fill="#0A0E18" font-family="AcuminProCond-Bold, Acumin Pro Condensed" font-size="24" font-style="condensed" font-weight="bold" letter-spacing=".48" transform="translate(0 -5)">
+            <tspan x="0" y="18">1990</tspan>
+        </text>
+    </g>
+</svg>
