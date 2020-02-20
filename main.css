@@ -1,3 +1,8 @@
+html,
+body {
+  font-family: acumin-pro-condensed, sans-serif;
+}
+
 figcaption {
   height: 0;
   font-size: 0;
@@ -45,14 +50,16 @@ nav {
 
 nav h1 {
   color: #39b54a;
-  font-weight: 900;
-  font-family: sans-serif;
+  font-weight: 800;
+  font-family: acumin-pro-condensed, sans-serif;
   text-transform: uppercase;
   width: 180px;
-  font-size: 1.75em;
-  letter-spacing: 0em;
-  line-height: 1.025em;
+  font-size: 31px;
+  letter-spacing: 0.078em;
+  line-height: 0.97em;
   margin-left: -1px;
+  margin-top: -4px;
+  font-weight: 800;
 }
 
 nav a {
@@ -62,9 +69,9 @@ nav a {
   width: 142px;
   margin-right: -1px;
   text-align: center;
-  padding-top: 16px;
-  font-size: 1em;
-  font-weight: 900;
+  padding-top: 14px;
+  font-size: 24px;
+  font-weight: 800;
   text-transform: uppercase;
   text-decoration: none;
   background: #39b54a;
@@ -80,14 +87,15 @@ nav a {
 }
 
 .hero-video h2 {
-  font-size: 41px;
+  font-size: 52px;
   text-transform: uppercase;
-  font-weight: 900;
-  font-family: sans-serif;
-  padding: 0 0 55px 55px;
-  width: 777px;
-  line-height: 1.4em;
+  font-weight: 800;
+  font-family: acumin-pro-condensed, sans-serif;
+  padding: 0 0 65px 55px;
+  width: 778px;
+  line-height: 1.1em;
   color: #fff;
+  letter-spacing: -0.012em;
 }
 
 .hero-video .play-button {
@@ -95,7 +103,7 @@ nav a {
   height: 104px;
   position: absolute;
   left: 50%;
-  top: calc(50% - 135px);
+  top: calc(50% - 139px);
   transform: translate(-50%, -50%);
 }
 
@@ -116,42 +124,44 @@ nav a {
 }
 
 .fancy-headline::before {
-  margin-bottom: 40px;
+  margin-bottom: 35px;
   left: -2px;
 }
 .fancy-headline::after {
-  margin-top: 30px;
+  margin-top: 32px;
   left: -2px;
 }
 
 .fancy-headline {
   text-transform: uppercase;
-  font-weight: 900;
-  font-family: sans-serif;
-  font-size: 34px;
+  font-weight: 800;
+  font-family: acumin-pro-condensed, sans-serif;
+  font-size: 37px;
   text-align: center;
   margin-top: 75px;
-  margin-bottom: 39px;
+  margin-bottom: 36px;
+  letter-spacing: 0.02em;
 }
 
 p {
   text-align: center;
-  font-size: 25px;
-  font-family: sans-serif;
+  font-size: 31px;
+  font-family: acumin-pro-condensed, sans-serif;
   max-width: 740px;
   margin-left: auto;
   margin-right: auto;
-  line-height: 2em;
+  line-height: 1.6em;
   margin-bottom: 28px;
+  letter-spacing: 0.01em;
 }
 
 .sub-heading {
   text-align: center;
-  font-size: 58px;
-  font-weight: 900;
+  font-size: 91px;
+  font-weight: 800;
   text-transform: uppercase;
-  font-family: sans-serif;
-  padding: 115px 0 111px;
+  font-family: acumin-pro-condensed, sans-serif;
+  padding: 96px 0 103px;
 }
 
 hr {
@@ -159,7 +169,7 @@ hr {
   width: 720px;
   border: none;
   background: #979797;
-  margin-bottom: 50px;
+  margin-bottom: 42px;
 }
 
 .help {
@@ -170,10 +180,12 @@ hr {
 
 .sub-sub-heading {
   text-transform: uppercase;
-  font-weight: 900;
-  font-family: sans-serif;
-  font-size: 35px;
+  font-weight: 800;
+  font-family: acumin-pro-condensed, sans-serif;
+  font-size: 40px;
   margin-bottom: 56px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
 }
 
 hr + .sub-sub-heading {
@@ -182,13 +194,13 @@ hr + .sub-sub-heading {
 
 .sub-sub-heading + small {
   text-transform: uppercase;
-  font-weight: 900;
-  font-family: sans-serif;
-  font-size: 27px;
+  font-weight: 800;
+  font-family: acumin-pro-condensed, sans-serif;
+  font-size: 31px;
   margin-bottom: 56px;
   color: #747474;
   position: relative;
-  top: -31px;
+  top: -39px;
 }
 
 img[src*="severed"] {
@@ -227,11 +239,14 @@ img[src*="turtle-desktop"] {
 }
 
 .quad > * {
-  display: block;
+  display: flex;
   flex-basis: 50%;
   width: 50%;
   overflow: hidden;
   min-height: 576px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .merch-list {
@@ -251,8 +266,7 @@ img[src*="turtle-desktop"] {
   color: #fff;
   display: flex;
   text-align: left;
-  margin-top: 110px;
-  padding: 112px 0 20px;
+  padding: 112px 80px 160px;
 }
 .partners > * {
   flex-basis: 33%;
@@ -261,17 +275,161 @@ img[src*="turtle-desktop"] {
 
 .partners h2 {
   box-sizing: border-box;
-  color: rgb(255, 255, 255);
-  font-family: acumin-pro-condensed, Arial, Helvetica, sans-serif;
-  font-size: 36px;
-  font-style: normal;
+  color: #fff;
+  font-family: acumin-pro-condensed, sans-serif;
+  font-size: 51px;
   font-weight: 800;
-  letter-spacing: -2.72px;
-  line-height: 1.25em;
   margin-bottom: 17.5px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 0px;
   overflow-wrap: break-word;
   text-transform: uppercase;
+  width: auto;
+  width: 100%;
+  flex-basis: 100%;
+
+  max-width: 483px;
+  margin-right: 65px;
+  margin-top: 0px;
+  line-height: 1.35em;
+}
+
+.basic-button {
+  margin: 0 auto;
+  width: 50px;
+  display: block;
+  border: 3px solid black;
+  height: 56px;
+  margin-top: -3px;
+  width: 327px;
+  text-align: center;
+  font-weight: 800;
+  text-transform: uppercase;
+  padding-top: 12px;
+  font-size: 24px;
+  text-decoration: none;
+  color: #000;
+
+  max-width: 100%;
+}
+
+.merch-list {
+  margin-top: 4em;
+  width: 100%;
+}
+
+.merch-list img {
+  max-width: 959px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.mini {
+  margin: 0;
+  display: block;
+  font-weight: 600;
+  width: 240px;
+  margin-bottom: 70px;
+}
+
+.white {
+  color: #fff;
+}
+.white::before,
+.white::after {
+  background: #fff;
+}
+
+.mini.long {
+  padding-top: 70px;
+  margin-bottom: 56px;
+}
+
+.mini.long ~ p {
+  width: 540px;
+  line-height: 1.32em;
+  margin-bottom: 31px;
+}
+
+.mini ~ p {
+  line-height: 1.2em;
+}
+
+.partners p {
+  font-size: 18px;
+  text-align: left;
+  margin-top: 25px;
+}
+
+.partners img {
+  height: 68px;
+}
+
+.support .fancy-headline {
+  margin-top: 119px;
+  margin-bottom: 55px;
+}
+.support p {
+  max-width: 440px;
+  font-size: 31px;
+  margin-bottom: 52px;
+}
+
+.share {
+  text-align: center;
+  padding-bottom: 75px;
+}
+
+.share h3 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 46px;
+  padding-top: 53px;
+  letter-spacing: 0.04em;
+  padding-bottom: 79px;
+}
+
+.clear,
+.clear::before,
+.clear::after {
+  clear: both;
+  content: "";
+}
+
+.share-btns {
+  margin: 0 auto;
+  width: 100%;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.share-btns .basic-button {
+  width: 306px;
+  display: inline-block;
+  max-width: 50%;
+}
+
+.share-btns .basic-button:first-child {
+  margin-right: 24px;
+}
+
+footer {
+  height: 82px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+
+/* Mobile */
+
+@media all and (max-width: 640px) {
+  .quad,
+  .partners {
+    flex-direction: column;
+  }
+  .quad > *,
+  .partners > * {
+    width: 100%;
+    flex-basis: 100%;
+  }
 }
