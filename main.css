@@ -484,6 +484,8 @@ iframe {
 #turtle {
   max-width: 715px;
   margin-bottom: 5em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .show-desktop {
@@ -491,4 +493,10 @@ iframe {
 }
 .show-mobile {
   display: none;
+}
+
+.partners a {
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.1em;
 }
