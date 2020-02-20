@@ -398,6 +398,14 @@ img[src*="turtle-desktop"] {
 .share {
   text-align: center;
   padding-bottom: 75px;
+  background: #0a0e18;
+  color: #fff;
+}
+
+.share .basic-button {
+  color: #fff;
+  border-color: #fff;
+  font-weight: 700;
 }
 
 .share h3 {
@@ -474,4 +482,9 @@ iframe {
   text-decoration: none;
   font-size: 26px;
   letter-spacing: 0.1em;
+}
+
+.partners > div:nth-child(2) {
+  padding-right: 3em;
+  box-sizing: content-box;
 }
