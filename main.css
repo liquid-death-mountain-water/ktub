@@ -480,3 +480,15 @@ iframe {
   padding-right: 3em;
   box-sizing: content-box;
 }
+
+#turtle {
+  max-width: 715px;
+  margin-bottom: 5em;
+}
+
+.show-desktop {
+  display: block;
+}
+.show-mobile {
+  display: none;
+}
